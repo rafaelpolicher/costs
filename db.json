@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "name": "New website",
+      "name": "mais um",
       "budget": "5000",
       "category": {
         "id": "2",
@@ -12,10 +12,26 @@
       "id": 1
     },
     {
-      "name": "system",
+      "name": "mais um",
+      "budget": "600",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
       "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "mais um",
+      "budget": "234234",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [

@@ -21,7 +21,8 @@ function NewProject() {
     })
       .then((resp) => resp.json())
       .then((data) => {
-        history('/projects', { message: 'Projeto criado com sucesso!' })
+        console.log(data)
+        history("/projects", {state: { message: "Project created with succes!" }});
       })
   }
 
