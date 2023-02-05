@@ -32,6 +32,28 @@
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "nome",
+      "budget": "8000",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "name": "das",
+      "budget": "400",
+      "cost": 0,
+      "services": [],
+      "id": 5
     }
   ],
   "categories": [
