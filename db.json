@@ -1,40 +1,7 @@
 {
   "projects": [
     {
-      "name": "mais um",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "mais um",
-      "budget": "600",
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "mais um",
-      "budget": "234234",
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "nome",
+      "name": "Web site",
       "budget": "8000",
       "category": {
         "id": "2",
@@ -42,18 +9,7 @@
       },
       "cost": 0,
       "services": [],
-      "id": 4
-    },
-    {
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "name": "das",
-      "budget": "400",
-      "cost": 0,
-      "services": [],
-      "id": 5
+      "id": 1
     }
   ],
   "categories": [
