@@ -10,7 +10,7 @@ function ProjectCard({id, name, budget, category, handleRemove}){
     }
 
     return(
-        <div className={styles.porject_card}>
+        <div className={styles.project_card}>
             <h4>{name}</h4>
             <p>
                 <span>Budget:</span> U${budget}
@@ -18,7 +18,7 @@ function ProjectCard({id, name, budget, category, handleRemove}){
             <p className={styles.category_text}>
                 <span className={`${styles[category.toLowerCase()]}`}></span>{category}
             </p>
-            <div className={styles.porject_card_actions}>
+            <div className={styles.project_card_actions}>
                 <Link to={`/project/${id}`}>
                     <BsPencil /> Edit
                 </Link>

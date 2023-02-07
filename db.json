@@ -1,31 +1,31 @@
 {
   "projects": [
     {
-      "name": "Web site atualizado",
-      "budget": "88888",
+      "name": "new website",
+      "budget": "10000",
       "category": {
-        "id": "4",
-        "name": "Planning"
+        "id": "2",
+        "name": "Development"
       },
-      "cost": 264,
+      "cost": 10000,
       "services": [
         {
-          "name": "hire dev",
-          "cost": "88",
-          "description": "hire",
-          "id": "66117a10-6c52-485f-9218-969924d68395"
+          "name": "hire front-end dev",
+          "cost": "3000",
+          "description": "junior frontend",
+          "id": "740fce61-f6b7-47ef-b8f4-09fe0051ca75"
         },
         {
-          "name": "hire dev",
-          "cost": "88",
-          "description": "hire",
-          "id": "66117a10-6c52-485f-9218-969924d68395"
+          "name": "hire front-end dev",
+          "cost": "5000",
+          "description": "senior frontend",
+          "id": "9cf3b783-e289-4475-b2ed-beb86df553bd"
         },
         {
-          "name": "hire dev",
-          "cost": "88",
-          "description": "hire",
-          "id": "66117a10-6c52-485f-9218-969924d68395"
+          "name": "hire back-end dev",
+          "cost": "2000",
+          "description": "junior backend",
+          "id": "a3dd9f46-0776-4395-8c56-a80c311b66e3"
         }
       ],
       "id": 1
