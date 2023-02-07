@@ -7,8 +7,27 @@
         "id": "4",
         "name": "Planning"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 264,
+      "services": [
+        {
+          "name": "hire dev",
+          "cost": "88",
+          "description": "hire",
+          "id": "66117a10-6c52-485f-9218-969924d68395"
+        },
+        {
+          "name": "hire dev",
+          "cost": "88",
+          "description": "hire",
+          "id": "66117a10-6c52-485f-9218-969924d68395"
+        },
+        {
+          "name": "hire dev",
+          "cost": "88",
+          "description": "hire",
+          "id": "66117a10-6c52-485f-9218-969924d68395"
+        }
+      ],
       "id": 1
     }
   ],
