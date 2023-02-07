@@ -70,6 +70,7 @@ function Project(){
     }
 
     function createService(project){
+        setMessage('')
         //last service
         const lastService = project.services[project.services.length - 1]
         lastService.id = uuidv4()
