@@ -1,33 +1,14 @@
 {
   "projects": [
     {
-      "name": "new website",
-      "budget": "10000",
+      "name": "website",
+      "budget": "7000",
       "category": {
         "id": "2",
         "name": "Development"
       },
-      "cost": 10000,
-      "services": [
-        {
-          "name": "hire front-end dev",
-          "cost": "3000",
-          "description": "junior frontend",
-          "id": "740fce61-f6b7-47ef-b8f4-09fe0051ca75"
-        },
-        {
-          "name": "hire front-end dev",
-          "cost": "5000",
-          "description": "senior frontend",
-          "id": "9cf3b783-e289-4475-b2ed-beb86df553bd"
-        },
-        {
-          "name": "hire back-end dev",
-          "cost": "2000",
-          "description": "junior backend",
-          "id": "a3dd9f46-0776-4395-8c56-a80c311b66e3"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 1
     }
   ],
