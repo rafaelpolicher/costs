@@ -1,70 +1,8 @@
-# Getting Started with Create React App
+"Costs" é um WebSite criado para avançar os estudos em React.js, feito juntamente com o curso de React do canal "horadecodar" no youtube 
+Na pagina "Home", ao clicar em "Build a project" será solicitado ao usuário colocar alguns dados do projeto, incluindo o valor total.
+Após a criação do projeto, o usuário sera redirecionado para a pagina "Projects" onde será possível vizualizar o novo projeto, bem como outros ja criados.
+Clicando em "edit", será exibido uma pagina para melhor vizualição do projeto, clicando no botão "edit project" sera possivel mudar qualquer dado que foi adicionado, ja em "add service" será solicidado ao usuário adicionar um serviço a este projeto, incluindo tambem o custo do serviço, podendo o usuário adicinar quantos serviços forem necessários desde que nao ultrapasse o valor total.
+Retornando a pagina de vizualiçao do projeto será possível ver todas as informações, incluindo o Valor total, e o valor de todos os serviços somados.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+============================================================================================
+"Costs" is a website created to advance studies in React.js, made together with the React course on the channel "horadecodar" on youtube On the "Home" page, when clicking on "Build a project" the user will be asked to put some project data, including the total amount. After creating the project, the user will be redirected to the "Projects" page where it will be possible to view the new project, and others already created. By clicking on "edit", a page will be displayed for better visualization of the project, by clicking on the "edit project" button it will be possible to change any data that has been added, while in "add service" the user will be asked to add a service to this project, including the cost of the service, the user being able to add as many services as necessary as long as it does not exceed the total value. Returning to the project's visualization page, it will be possible to see all the information, including the full value, and the value of all services added together.
